@@ -1,10 +1,11 @@
-.App-header {
-  background-color: #ffffff;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.navbar{
+  background-color: #21ab64;
+  
+}
+.searchbar{
+  flex-grow: 500;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: rgb(0, 0, 0);
+}
+.addcarbttn{
+  background-color: #21ab64;
 }
